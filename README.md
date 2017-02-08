@@ -2,7 +2,7 @@
 [colombiasoat.herokuapp.com](http://colombiasoat.herokuapp.com)
 
 # Api (Ruby on Rails 5)
-(Folder colombiasoat-client)
+
 
 * Requerimientos del sistema
     * [Ruby 2.3.1](https://www.ruby-lang.org/en/)
